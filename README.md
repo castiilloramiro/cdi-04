@@ -1,4 +1,6 @@
 # cdi-04
-Alumno: Castillo RAmiro.
+Alumno: Castillo Ramiro.
+
 Curso: 4º2 Av.
-Materia: Controlde interfaces.
+
+Materia: Control de interfaces.
